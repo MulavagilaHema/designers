@@ -1,0 +1,42 @@
+body{
+    background-color: #D8E0DE;
+}
+marquee{
+    background-color: #DBFFE5;
+}
+.container{
+    display: flex;
+    width: 100vw;
+}
+.pic{
+    background: #FFFFFF;
+    display:flex;
+
+}
+.bhavana{
+    margin-left: 40vw;
+}
+.hema{
+    background-color:limegreen;
+}
+.sri{
+    display: flex;
+}
+.Reddy{
+    color: blueviolet;
+}
+.varshi{
+    margin-left: 40vw;
+}
+.sai{
+    margin-left: 40vw;
+}
+.amma{
+    margin-left: 10vw;
+}
+.m{
+    display: flex;
+}
+.h{
+    margin-right:40px;
+}
